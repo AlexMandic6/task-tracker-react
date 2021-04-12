@@ -18,3 +18,6 @@ Runs mock REST API [JSON server](https://github.com/typicode/json-server) on [ht
 
 To minify and build for production.
 
+![my image](/src/screenshots/task.png?raw=true "Tasks")
+![my image](/src/screenshots/add-new-task.png?raw=true "Add New Task")
+
